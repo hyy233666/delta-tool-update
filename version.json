@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "notes": "1. 新增更新提示弹窗：启动时自动检查新版本\n2. 「关于」弹窗新增「检查更新」入口\n3. 修复若干已知问题，优化使用体验",
   "downloadUrl": "https://pan.quark.cn/s/cc701ae8eb19"
 }
